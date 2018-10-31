@@ -41,7 +41,7 @@ client.on('message',message =>{
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
 });
 
-client.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+client.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const client00 = new Discord.Client();
 //broadcast
 
@@ -95,7 +95,7 @@ client.on('ready', () => {
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
 });
 
-client00.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+client00.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const client0000 = new Discord.Client();
 //عدد الاعضاء
 
@@ -114,7 +114,7 @@ client.on('ready', () => {
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
 });
 
-client0000.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+client0000.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const pfo = new Discord.Client();
 
 pfo.on('message', message => {
@@ -132,7 +132,7 @@ client.on('ready', () => {
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
 });
 
-pfo.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+pfo.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const mama = new Discord.Client();
 mama.on('message', async message => {
     var command = message.content.toLowerCase().split(" ")[0];
@@ -250,7 +250,7 @@ client.on('ready', () => {
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
 });
 
-mama.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+mama.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const pfrr = new Discord.Client();
 
 pfrr.on('message', ra3d => {
@@ -275,7 +275,7 @@ console.log("i'm Ready");
 client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
 });
         
-pfrr.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+pfrr.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const count = new Discord.Client();
 
 count.on('message', message => {
@@ -292,7 +292,7 @@ console.log("i'm Ready");
 client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
 });
 
-count.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+count.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const Invites = new Discord.Client();
 
 Invites.on("message", async message => {
@@ -360,7 +360,7 @@ client.on('ready', () => {
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
     });
     
-Invites.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+Invites.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const Suggestions = new Discord.Client();
 
 Suggestions.on('message', message => {
@@ -427,7 +427,7 @@ client.on('ready', () => {
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
     });
 
-Suggestions.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+Suggestions.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
 const Rab6 = new Discord.Client();
 
 Rab6.on('message', message => {
@@ -456,4 +456,4 @@ Rab6.on('message', message => {
     client.user.setActivity('https://RezfixHost.com', { type: 'WATCHING' });
     });
 
-Rab6.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruUqA.kaRLQ1yG1LBZ_QFn_YGTYO9H2D4');
+Rab6.login('NTA3Mjc1NDQ0MTUyNjk2ODMy.DruXHw.PIu1IpbnrYU-pkgDm6Hj_Xqk0-Q');
