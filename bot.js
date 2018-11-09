@@ -9,13 +9,13 @@ client.on('ready', () => {
   });
 
 client.login(process.env.BOT_TOKEN);
-const client = new Discord.Client();
+const client1 = new Discord.Client();
 
-client.on('ready', () => {
+client1.on('ready', () => {
     client.user.setGame('RezfixServer The Best ','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('iR26RR Online')
     console.log('---------------')
   });
 
-client.login(process.env.BOT_TOKE);
+client1.login(process.env.BOT_TOKE);
