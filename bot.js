@@ -12,7 +12,7 @@ iR25RR.login(process.env.BOT_TOKEN);
 const iR26RR = new Discord.Client();
 
 iR26RR.on('ready', () => {
-    client.user.setGame('i Love iR25RR','https://www.twitch.tv/Rezfix');
+   iR26RR.user.setGame('i Love iR25RR','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('iR26RR Online')
     console.log('---------------')
