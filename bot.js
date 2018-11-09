@@ -9,7 +9,6 @@ client.on('ready', () => {
   });
 
 client.login(process.env.BOT_TOKEN);
-const client = new Discord.Client();
 
 client.on('ready', () => {
     client.user.setGame('RezfixServer The Best ','https://www.twitch.tv/Rezfix');
