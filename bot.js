@@ -19,7 +19,7 @@ Spaiky.on('ready', () => {
   });
 
 Spaiky.login(process.env.BOT_TOKE);
-const iR26RR = new Discord.Client();
+const iTaly = new Discord.Client();
 
 iTaly.on('ready', () => {
    iTaly.user.setGame('أرتبطت لين تربطت','https://www.twitch.tv/Rezfix');
