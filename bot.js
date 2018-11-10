@@ -34,7 +34,7 @@ const HeyIm = new Discord.Client();
 HeyIm.on('ready', () => {
    HeyIm.user.setGame('Rezfix','https://www.twitch.tv/Rezfix');
     console.log('---------------');
-    console.log('iTaly Online')
+    console.log('HeyIm Online')
     console.log('---------------')
   });
 
