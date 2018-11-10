@@ -1,14 +1,14 @@
 const Discord = require("discord.js");
 const iR25RR = new Discord.Client();
 
-Omar.on('ready', () => {
-    Omar.user.setGame('i Love iR26RR','https://www.twitch.tv/Rezfix');
+iR25RR.on('ready', () => {
+    iR25RR.user.setGame('i Love iR26RR','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('iR25RR Online')
     console.log('---------------')
   });
 
-Omar.login(process.env.BOT_TOKEN);
+iR25RR.login(process.env.BOT_TOKEN);
 const Spaiky = new Discord.Client();
 
 Spaiky.on('ready', () => {
