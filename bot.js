@@ -29,3 +29,13 @@ iTaly.on('ready', () => {
   });
 
 iTaly.login(process.env.BOT_TOK);
+const Abgames = new Discord.Client();
+
+Abgames.on('ready', () => {
+   Abgames.user.setGame('Dz_Craft  Back','https://www.twitch.tv/Rezfix');
+    console.log('---------------');
+    console.log('ِABGAMES Online')
+    console.log('---------------')
+  });
+
+Abgames.login(process.env.BOT_TO);
