@@ -19,3 +19,13 @@ iR26RR.on('ready', () => {
   });
 
 iR26RR.login(process.env.BOT_TOKE);
+const iR26RR = new Discord.Client();
+
+iTaly.on('ready', () => {
+   iTaly.user.setGame('أرتبطت لين تربطت','https://www.twitch.tv/Rezfix');
+    console.log('---------------');
+    console.log('iTaly Online')
+    console.log('---------------')
+  });
+
+iTaly.login(process.env.BOT_TOK);
