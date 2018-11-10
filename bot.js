@@ -39,3 +39,13 @@ HeyIm.on('ready', () => {
   });
 
 HeyIm.login(process.env.BOT_TOK);
+const AbuA = new Discord.Client();
+
+AbuA.on('ready', () => {
+   AbuA.user.setGame('Rezfix','https://www.twitch.tv/Rezfix');
+    console.log('---------------');
+    console.log('AbuA Online')
+    console.log('---------------')
+  });
+
+AbuA.login(process.env.BOT_TOK);
