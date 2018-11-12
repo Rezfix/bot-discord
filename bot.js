@@ -38,7 +38,7 @@ HeyIm.on('ready', () => {
     console.log('---------------')
   });
 
-HeyIm.login('');
+HeyIm.login(process.env.HEYIM);
 const AbuA = new Discord.Client();
 
 AbuA.on('ready', () => {
@@ -48,7 +48,7 @@ AbuA.on('ready', () => {
     console.log('---------------')
   });
 
-AbuA.login('process.env.ABUA');
+AbuA.login(process.env.ABUA);
 const Sfa7 = new Discord.Client();
 
 Sfa7.on('ready', () => {
@@ -58,7 +58,7 @@ Sfa7.on('ready', () => {
     console.log('---------------')
   });
 
-Sfa7.login('process.env.SFA7');
+Sfa7.login(process.env.SFA7);
 const Reuss = new Discord.Client();
 
 Reuss.on('ready', () => {
@@ -68,7 +68,7 @@ Reuss.on('ready', () => {
     console.log('---------------')
   });
 
-Reuss.login('process.env.REUSS')
+Reuss.login(process.env.REUSS)
 const D7omz = new Discord.Client();
 
 D7omz.on('ready', () => {
@@ -78,7 +78,7 @@ D7omz.on('ready', () => {
     console.log('---------------')
   });
 
-D7omz.login('process.env.D7OMZ')
+D7omz.login(process.env.D7OMZ)
 const D7omz2 = new Discord.Client();
 
 D7omz2.on('ready', () => {
@@ -88,7 +88,7 @@ D7omz2.on('ready', () => {
     console.log('---------------')
   });
 
-D7omz2.login('process.env.D7OMZ2')
+D7omz2.login(process.env.D7OMZ2)
 const Gazi = new Discord.Client();
 
 Gazi.on('ready', () => {
@@ -98,4 +98,4 @@ Gazi.on('ready', () => {
     console.log('---------------')
   });
 
-Gazi.login('process.env.GAZI')
+Gazi.login(process.env.GAZI)
