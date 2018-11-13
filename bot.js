@@ -22,7 +22,7 @@ Spaiky.login(process.env.BOT_TOKE);
 const iTaly = new Discord.Client();
 
 iTaly.on('ready', () => {
-   iTaly.user.setGame('أرتبطت لين تربطت','https://www.twitch.tv/Rezfix');
+   iTaly.user.setGame('لا هنت دندن يا فاهي ترا الدنيا ملاهي','https://www.twitch.tv/Rezfix');
     console.log('---------------');
     console.log('iTaly Online')
     console.log('---------------')
