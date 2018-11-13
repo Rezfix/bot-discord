@@ -39,13 +39,3 @@ HeyIm.on('ready', () => {
   });
 
 HeyIm.login(process.env.HEYIM);
-const AbuA = new Discord.Client();
-
-AbuA.on('ready', () => {
-   AbuA.user.setGame('ابغا iPhone xs 😢','https://www.twitch.tv/Rezfix');
-    console.log('---------------');
-    console.log('AbuA Online')
-    console.log('---------------')
-  });
-
-AbuA.login(process.env.ABUA);
